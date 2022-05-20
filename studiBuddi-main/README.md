@@ -1,6 +1,6 @@
 # Link to the page
 
-This site was built using [GitHub Pages](https://lauchrocke.github.io/studiBuddi/)
+This site was built using react material ui [GitHub Pages](https://lauchrocke.github.io/studiBuddi/)
 
 
 ## Getting Started with Create React App
